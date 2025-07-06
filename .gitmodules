@@ -1,0 +1,6 @@
+[submodule "packages/non-domain-specific/http-utils"]
+	path = packages/non-domain-specific/http-utils
+	url = https://github.com/DockerByTheGo/Backend-solutions.git
+[submodule "packages/non-domain-specific/better-standdard"]
+	path = packages/non-domain-specific/better-standdard
+	url = https://github.com/DockerByTheGo/better-standard-lib.git
