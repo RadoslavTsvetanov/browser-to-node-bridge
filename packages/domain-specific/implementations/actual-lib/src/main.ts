@@ -1,4 +1,4 @@
-import type { Bridge } from "@blazyts/browser-to-node-bridge";
+import type { Bridge } from "../../../core";
 import {promises} from "fs"
 
 export class RemoteServerBridge implements Bridge {
