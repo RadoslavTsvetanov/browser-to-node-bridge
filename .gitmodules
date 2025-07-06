@@ -1,0 +1,3 @@
+[submodule "packages/non-domain-specific/Blaze"]
+    path = packages/non-domain-specific/Blaze
+    url = https://github.com/DockerByTheGo/Blaze.git
