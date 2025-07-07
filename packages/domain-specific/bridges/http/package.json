@@ -1,5 +1,6 @@
 {
-  "name": "websocket-bridge",
+  "name": "@blazyts/http-bridge",
+  "version": "1.0.0",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
@@ -11,7 +12,6 @@
   "dependencies": {
     "@blazyts/better-standard-library": "workspace:*",
     "@blazyts/browser-to-node-bridge": "workspace:*",
-    "@blazyts/server-proxy-implementation": "workspace:*",
     "@elysiajs/eden": "^1.3.2",
     "@elysiajs/swagger": "^1.3.1",
     "elysia": "^1.3.5"
